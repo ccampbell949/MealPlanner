@@ -1,8 +1,14 @@
 # MealPlanner
 Meal planner application to help shoppers with their weekly meals and grocery list
 
+Define Requirements:
+Users should be able to create a meal plan for the week.
+Generate a shopping list based on the meal plan.
+Add items from the shopping list to the user's Tesco basket.
+Users should be able to manage their Tesco account within the app.
+
 User Stories:
-As a user, I want to create a meal plan for the week so that I can organize my meals.
+As a user, I want to create a meal plan for the week so that I can organise my meals.
 As a user, I want to generate a shopping list based on my meal plan so that I know what groceries to buy.
 As a user, I want to add items from my shopping list to my Tesco basket so that I can quickly purchase them.
 As a user, I want to manage my Tesco account within the app so that I can log in and out securely.
