@@ -56,4 +56,4 @@ Users should be able to view their meal plan for the week, as well as edit or de
 - **Edit Meals:** Enable users to click on any meal to edit its details, with changes being saved immediately.
 - **Delete Meals:** Allow users to remove meals with a simple delete action, ensuring there are confirmation steps to avoid accidental deletions.
 
-*It's worth nothing that the main requirements should be part of the mvp, and the implications for design are all very much "nice to haves" and may not all be implemented. I will however strive for a product that tries to achieve as many of these requirements as possible and where something can't be done either through tech limitiations (or simply lack of skill...) I'll try and justiy my decisions in the ticket.*
+*It's worth noting that the main requirements should be part of the mvp, and the implications for design are all very much "nice to haves" and may not all be implemented. I will however strive for a product that tries to achieve as many of these requirements as possible and where something can't be done either through tech limitiations (or simply lack of skill...) I'll try and justiy my decisions in the ticket.*
